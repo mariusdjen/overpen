@@ -1,0 +1,4 @@
+// Shared build settings.
+// To sign with your own Apple account, create Config/Local.xcconfig (not versioned) with:
+// DEVELOPMENT_TEAM = YOURTEAMID
+#include? "Local.xcconfig"

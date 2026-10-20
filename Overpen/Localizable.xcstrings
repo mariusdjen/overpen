@@ -1,0 +1,449 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%lld pt": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld pt"
+          }
+        }
+      }
+    },
+    "About Overpen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À propos d’Overpen"
+          }
+        }
+      }
+    },
+    "Add ⌘, ⌥ or ⌃": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajoutez ⌘, ⌥ ou ⌃"
+          }
+        }
+      }
+    },
+    "Another app already uses this shortcut. Choose another one.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une autre app utilise déjà ce raccourci. Choisissez-en un autre."
+          }
+        }
+      }
+    },
+    "Clear Drawings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effacer les dessins"
+          }
+        }
+      }
+    },
+    "Clear drawings when the pen turns off": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effacer les dessins quand le stylo s’arrête"
+          }
+        }
+      }
+    },
+    "Clear everything": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tout effacer"
+          }
+        }
+      }
+    },
+    "Click, then press the new shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cliquez, puis tapez le nouveau raccourci"
+          }
+        }
+      }
+    },
+    "Color %lld": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleur %lld"
+          }
+        }
+      }
+    },
+    "Color 1": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleur 1"
+          }
+        }
+      }
+    },
+    "Color 2": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleur 2"
+          }
+        }
+      }
+    },
+    "Color 3": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleur 3"
+          }
+        }
+      }
+    },
+    "Color 4": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleur 4"
+          }
+        }
+      }
+    },
+    "Colors": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleurs"
+          }
+        }
+      }
+    },
+    "Draw over anything on your screen.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dessinez par-dessus tout votre écran."
+          }
+        }
+      }
+    },
+    "Draw over anything on your screen. Press %@ to start, or use the pen icon in the menu bar.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dessinez par-dessus tout votre écran. Appuyez sur %@ pour commencer, ou utilisez l’icône du stylo dans la barre des menus."
+          }
+        }
+      }
+    },
+    "Draw over anything on your screen. Use the pen icon in the menu bar to start.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dessinez par-dessus tout votre écran. Utilisez l’icône du stylo dans la barre des menus pour commencer."
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Général"
+          }
+        }
+      }
+    },
+    "Hold Shift while dragging to draw a frame.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenez Maj en glissant pour dessiner un cadre."
+          }
+        }
+      }
+    },
+    "Line": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trait"
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun"
+          }
+        }
+      }
+    },
+    "Open at login": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir à la connexion"
+          }
+        }
+      }
+    },
+    "Overpen": {
+      "shouldTranslate": false
+    },
+    "Pen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stylo"
+          }
+        }
+      }
+    },
+    "Pen on.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stylo activé."
+          }
+        }
+      }
+    },
+    "Pen on. Press %@ to stop.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stylo activé. Appuyez sur %@ pour arrêter."
+          }
+        }
+      }
+    },
+    "Press keys": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tapez les touches"
+          }
+        }
+      }
+    },
+    "Quit Overpen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter Overpen"
+          }
+        }
+      }
+    },
+    "Remove shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer le raccourci"
+          }
+        }
+      }
+    },
+    "Restore Colors": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couleurs d’origine"
+          }
+        }
+      }
+    },
+    "Restore Defaults": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourcis d’origine"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages…"
+          }
+        }
+      }
+    },
+    "Shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourcis"
+          }
+        }
+      }
+    },
+    "Show a short message when the pen turns on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher un court message quand le stylo s’active"
+          }
+        }
+      }
+    },
+    "Space": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Espace"
+          }
+        }
+      }
+    },
+    "Start Drawing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commencer à dessiner"
+          }
+        }
+      }
+    },
+    "Stop Drawing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêter de dessiner"
+          }
+        }
+      }
+    },
+    "Stop drawing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrêter de dessiner"
+          }
+        }
+      }
+    },
+    "Thickness": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Épaisseur"
+          }
+        }
+      }
+    },
+    "Tips": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Astuces"
+          }
+        }
+      }
+    },
+    "Turn off clearing to keep your drawings on screen while you work.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désactivez l’effacement pour garder vos dessins à l’écran pendant que vous travaillez."
+          }
+        }
+      }
+    },
+    "Turn the pen on or off": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer ou arrêter le stylo"
+          }
+        }
+      }
+    },
+    "Undo last stroke": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annuler le dernier trait"
+          }
+        }
+      }
+    },
+    "While drawing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendant le dessin"
+          }
+        }
+      }
+    },
+    "Works from any app.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fonctionne depuis n’importe quelle app."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
