@@ -71,8 +71,16 @@ Without it, the app is signed to run on your Mac only.
 Issues and pull requests are welcome. Please keep the app small, fast and private: no tracking, no network.
 To add a language, open `Overpen/Localizable.xcstrings` in Xcode and add it.
 
+## Privacy
+
+Overpen collects no data. See [PRIVACY.md](PRIVACY.md).
+
+## Support
+
+Questions, bugs or ideas: [open an issue](https://github.com/mariusdjen/overpen/issues).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
 
-Made by [Marius Djenontin](https://github.com/mariusdjen), with Claude.
+Made by [Marius Djenontin](https://github.com/mariusdjen).
